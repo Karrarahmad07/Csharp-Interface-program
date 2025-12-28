@@ -6,7 +6,7 @@ It's a program that uses interface for abstraction of the methods for multiple o
 It consist of PowerOn method which is used to perform PowerOn operation on different objects, include Light Bulb or Computer in this Program while keeping the implementation hidden from the user.
 
 Points About Program:
---------------------------------------------------------------
+-------------------------------------------------------------
 
 1. First thing, program has inferface which consist of PowerOn Method with No body as usually the interface method don't have.
 
